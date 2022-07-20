@@ -8,3 +8,6 @@ spring:
     username: el-course
     password: 123456aA
     driver-class-name: org.mariadb.jdbc.Driver
+logging:
+  log-request: true
+  log-response: true
